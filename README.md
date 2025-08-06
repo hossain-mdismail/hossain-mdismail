@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I am Md Ismail Hossain, Currently, deepening my knowledge in Machine Learning, Deep Learning, and Artificial Intelligence through hands-on projects and continuous learning.
+Hi, I am Md Ismail Hossain, currently, deepening my knowledge in Machine Learning, Deep Learning, and Artificial Intelligence through hands-on projects and continuous learning.
 
 
 ## 🌐 Socials:
