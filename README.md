@@ -2,7 +2,7 @@
 I am Ismail, currently deepening my knowledge in Machine Learning, Deep Learning, and Artificial Intelligence through hands-on projects and continuous learning.
 
 ## Socials
-[Discord](https://discord.gg/enJqz339) | [Facebook](https://facebook.com/ismailhossain.tuhinnn) | [LinkedIn](https://linkedin.com/in/ismail-hossain2000) | [YouTube](https://youtube.com/@UCUmEM2Wj5qWOq0eWrh-kuuw) | [Mastodon](https://mastodon.social/@Md Ismail Hossain) | [Email](mailto:ismailtuhinamth05@gmail.com)
+[LinkedIn](https://linkedin.com/in/ismail-hossain2000)
 
 ## Tech Stack
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
