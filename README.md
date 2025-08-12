@@ -12,9 +12,6 @@ Hi, I am Ismail, currently, deepening my knowledge in Machine Learning, Deep Lea
 ![](https://nirzak-streak-stats.vercel.app/?user=hossain-mdismail&theme=vue-dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=hossain-mdismail&theme=vue-dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=hossain-mdismail&theme=gruvbox&no-frame=false&no-bg=true&margin-w=4)
-
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=hossain-mdismail&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
