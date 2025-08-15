@@ -10,10 +10,13 @@ I am Ismail, currently deepening my knowledge in Machine Learning, Deep Learning
 Python • C++ • R • LaTeX • Fortran • Oracle • Netlify • Azure • Anaconda • Apache • MySQL • Adobe Illustrator • Matplotlib • NumPy • Pandas • PyTorch • Git  
 
 ## GitHub Stats  
-![](https://github-readme-stats.vercel.app/api?username=hossain-mdismail&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://nirzak-streak-stats.vercel.app/?user=hossain-mdismail&theme=default_repocard&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=hossain-mdismail&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hossain-mdismail&show_icons=true&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false" height="165">
+  <img src="https://nirzak-streak-stats.vercel.app/?user=hossain-mdismail&theme=default_repocard&hide_border=false" height="165">
+</p>
 
-### Top Contributed Repositories  
-![](https://github-contributor-stats.vercel.app/api?username=hossain-mdismail&limit=5&theme=default_repocard&combine_all_yearly_contributions=true)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hossain-mdismail&theme=default_repocard&hide_border=false&include_all_commits=true&count_private=false&layout=compact">
+</p>
+
 
