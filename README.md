@@ -1,4 +1,5 @@
-# About Me:
+# About Me: 
+
 I am Ismail, currently deepening my knowledge in Machine Learning, Deep Learning, and Artificial Intelligence through hands-on projects and continuous learning.
 
 ## Socials:
