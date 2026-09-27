@@ -8,10 +8,10 @@ I am Ismail Hossain. With a strong analytical foundation in Data Science and Mac
 - [Email](mailto:ismailtuhinamth05@gmail.com)
 
 # Tech Stack:
-* **Cloud & Infrastructure:** Linux (Ubuntu) • Docker • Azure 
+* **Cloud & Infrastructure:** Linux (Ubuntu) • Docker • AWS • Azure
 * **DevOps & Automation:** Git • GitLab CI/CD • GitHub Actions
 * **Programming & Scripting:** Python • Bash • C++ 
-* **Data & Backend:** FastAPI • MySQL • Oracle • PyTorch • Pandas
+* **Data & Backend:** FastAPI • PostgreSQL • Oracle • Pandas
 
 ## GitHub Stats
 
