@@ -1,6 +1,6 @@
-# About Me: 
+# About Me:
 
-I am Ismail Hossain, currently deepening my knowledge in Machine Learning, Deep Learning, and Artificial Intelligence through hands-on projects and continuous learning.
+I am Ismail Hossain. With a strong analytical foundation in Data Science and Machine Learning, I am actively transitioning into Cloud Engineering and DevOps. I am currently focused on mastering Linux server administration, containerization, and building automated CI/CD pipelines to bridge the gap between application development and scalable infrastructure.
 
 ## Socials:
 - [LinkedIn](https://linkedin.com/in/ismail-hossain2000)
@@ -8,7 +8,10 @@ I am Ismail Hossain, currently deepening my knowledge in Machine Learning, Deep 
 - [Email](mailto:ismailtuhinamth05@gmail.com)
 
 # Tech Stack:
-Python • C++ • R • LaTeX • Fortran • Oracle • Netlify • Azure • Anaconda • Apache • MySQL • Adobe Illustrator • Matplotlib • NumPy • Pandas • PyTorch • Git
+* **Cloud & Infrastructure:** Linux (Ubuntu) • Docker • Azure 
+* **DevOps & Automation:** Git • GitLab CI/CD • GitHub Actions
+* **Programming & Scripting:** Python • Bash • C++ 
+* **Data & Backend:** FastAPI • MySQL • Oracle • PyTorch • Pandas
 
 ## GitHub Stats
 
